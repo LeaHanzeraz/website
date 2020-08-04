@@ -1,0 +1,31 @@
+body
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+}
+
+h2
+{
+    color: rgb(3, 255, 179);
+    text-align: center;
+}
+
+p
+{
+    color: rgb(214, 82, 21);
+}
+
+#navbar
+{   
+    box-decoration-break: slice;
+    -webkit-box-decoration-break: slice;
+    box-shadow: 8px 8px 10px 0 #ff1493, -5px -5px 5px 0 #00f, 5px 5px 15px 0 #ff0;
+
+    content: "\a";
+    white-space: pre;
+}
